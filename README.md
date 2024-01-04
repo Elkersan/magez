@@ -3,7 +3,7 @@
 
 ## Sección 1
 
-Titulo: Unpedazo de Azaya
+Titulo: 
 
 ## Sección 2
 
