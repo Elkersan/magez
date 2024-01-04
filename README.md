@@ -12,6 +12,7 @@ Resumen grafico de algunos murales que se encuentran a las afueras de una insti.
 ## Galería de Imágenes
 
 <p align="center">
+  
   <img src="IMG_20240103_152605_903 - copia.jpg" width="200" alt="Imagen 1">
   <img src="IMG_20240103_152616_174 - copia.jpg" width="200" alt="Imagen 2">
   <img src="IMG_20240103_152746_516 - copia.jpg" width="200" alt="Imagen 3">
